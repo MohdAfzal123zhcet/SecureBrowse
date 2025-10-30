@@ -26,21 +26,12 @@ If adult content is detected, the page is immediately blocked and replaced with 
 ✅ **Auto-Start Background Service** — Starts automatically when Windows boots.  
 ✅ **Browser Integration** — Real-time blocking via Chrome/Edge extension.  
 ✅ **Privacy Friendly** — No data logging, no tracking, no remote servers.  
-✅ **Lightweight** — Optimized Flask app, runs under 50MB memory.
+✅ **Lightweight** -runs under 40MB memory.
 
 ---
 
-## 🚀 Installation (for users)
-
-1. **Download Installer:**  
-   👉 [Download SecureBrowse](https://github.com/<your-username>/SecureBrowse/releases/latest/download/SecureBrowse_Installer.exe)
-
 2. **Run the installer**  
    - It will automatically install, set up auto-start, and launch the protection service.
-
-3. **Add Browser Extension:**  
-   - Open the Chrome Web Store and install **SecureBrowse Extension**.  
-   - That’s it — Safe browsing begins automatically!
 
 
 ---
