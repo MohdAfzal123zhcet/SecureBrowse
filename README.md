@@ -14,7 +14,7 @@ This project is built with the goal of *digital purity* and *mental focus* for e
 ---
 
 ## 🔍 Overview
-SecureBrowse combines an intelligent **Flask-based background service** with a lightweight **browser extension**.  
+SecureBrowse combines an intelligent background service with a lightweight **browser extension**.  
 
 If adult content is detected, the page is immediately blocked and replaced with a motivational reminder.
 
