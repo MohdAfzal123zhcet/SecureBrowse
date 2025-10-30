@@ -52,7 +52,7 @@ Feel free to submit ideas, suggestions, or pull requests to make SecureBrowse be
 
 ## 🧑‍💻 Author
 **Mohd Afzal Ali**  
-*Developer · MTech in Software Engineering*  
+*Developer · MTech in Software Engineering AMU*  
 
 
 ⭐ **Star this repo** if you support clean and focused internet habits!
