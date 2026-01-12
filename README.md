@@ -2,7 +2,7 @@
 ## ❤️ Mission
 
 Many people struggle to avoid explicit content online.  
-**SecureBrowse** helps users regain control — not by spying or judging — but by simply removing temptation before it appears.
+** Our Software** helps users regain control — not by spying or judging — but by simply removing temptation before it appears.
 
 This project is built with the goal of *digital purity* and *mental focus* for everyone.
 
