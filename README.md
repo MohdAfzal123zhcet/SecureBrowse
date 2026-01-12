@@ -166,11 +166,6 @@ Both modes are tightly integrated to provide **continuous and consistent securit
 - Enhanced online phishing classification models
 - Cross-platform support (Linux / macOS)
 
----
-
-## 👤 Author
-
-**Mohd Afzal Ali**
 
 ---
 
@@ -188,10 +183,6 @@ It is intended to demonstrate hybrid offline–online security concepts and shou
 ✅ **Privacy Friendly** — No data logging, no tracking, no remote servers.  
 ✅ **Lightweight** -runs under 40MB memory.
 
----
-
-2. **Run the installer**  
-   - It will automatically install, set up auto-start, and launch the protection service.
 
 
 ---
